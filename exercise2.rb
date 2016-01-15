@@ -1,8 +1,9 @@
-#Question 2
+#Question 1
 puts "I usually multiply the cost of the meal by 1.15"
 puts "Therefore the equation I would use is:"
 puts "Total = 55 x 1.15 = 63.25"
 
+#Question 2
 #Turning an integer into a string using the to_s method
 x=1.to_s
 
